@@ -1,3 +1,3 @@
 # toy_ds_project
 
-Anthor: Xiao Jin (Sylvie)
+project creation date: Oct 8, 2021
