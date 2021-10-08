@@ -1,3 +1,3 @@
 # toy_ds_project
 
-Anthor: Xiao Jin
+Anthor: Xiao Jin (Sylvie)
